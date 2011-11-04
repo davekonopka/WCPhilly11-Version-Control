@@ -84,7 +84,11 @@ Put together by [Dave Konopka](http://davekonopka.com). On Twitter: [@davekonopk
 * Each plugin is an SVN repo
     * Latest trunk or specified tag zipped up every 15 minutes
 * git-svn
+    * [Publish git respository to svn easily](http://stas.nerd.ro/index.php/read/861)
 * Use diff tool to apply changes to SVN checkout
+    * FileMerge on Mac OS X
+    * [DiffMerge](http://en.wikipedia.org/wiki/Apple_Developer_Tools#FileMerge) Win, Mac, Linux
+    * [WinMerge](http://winmerge.org/) Windows
 * Publish to Github for additional exposure
 
 ### Manage an entire WordPress site ###
@@ -92,8 +96,8 @@ Put together by [Dave Konopka](http://davekonopka.com). On Twitter: [@davekonopk
 * Site is a repo
     * Master = WordPress code
     * MySite branch = customizations
-* SVN externals
-* Git submodules
+* [SVN externals](http://svnbook.red-bean.com/en/1.6/svn.advanced.externals.html)
+* [Git submodules](http://book.git-scm.com/5_submodules.html)
 * Ignore dynamic pieces
     * wp-content/uploads
     * wp-config.php
@@ -102,6 +106,7 @@ Put together by [Dave Konopka](http://davekonopka.com). On Twitter: [@davekonopk
     * Checkout master, delete all files, post code
     * Commit
     * Checkout working branch, merge in master
+* [WordPress on Github](https://github.com/markjaquith/WordPress)
 
 ### Contributing to projects ###
 
@@ -119,13 +124,19 @@ Put together by [Dave Konopka](http://davekonopka.com). On Twitter: [@davekonopk
 * Manual pull on server
 * Remote git repo, push updates code
 * Capistrano (Ruby gem)
+    * [WordPress Capistrano](https://github.com/jestro/wordpress-capistrano)
+    * [Deploying WordPress with Capistrano](http://theme.fm/2011/08/tutorial-deploying-wordpress-with-capistrano-2082/)
 * Post commit hooks
+    * [Github Post-Receive Hooks](http://help.github.com/post-receive-hooks/)
+    * [Beanstalk Web Hooks](http://support.beanstalkapp.com/customer/portal/articles/68110-trigger-a-url-on-commit-with-web-hooks)
 
 ### Databases ###
 
 * Version control does not serve databases well
 * Mysqldump, track script
-* Plugins for managing data migration
+* Plugins for managing data/content migration
+    * [DeployMint](http://markmaunder.com/2011/08/19/deploymint-a-staging-and-deployment-system-for-wordpress/)
+    * [RAMP](http://crowdfavorite.com/wordpress/ramp/)
 
 ## Workflows: Pleasure principal ##
 
@@ -158,6 +169,11 @@ Put together by [Dave Konopka](http://davekonopka.com). On Twitter: [@davekonopk
 * [Beanstalk Guides](http://guides.beanstalkapp.com/) "Everything you
   need to get started with Subversion or Git."
 * [Github Help](http://help.github.com/)
+* [Version Control with Subversion](http://svnbook.red-bean.com/) free
+  book
+* [The Git Community Book](http://book.git-scm.com/)
+* [Pro Git](http://progit.org/book/) free book
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 
 ### Applications ###
 
