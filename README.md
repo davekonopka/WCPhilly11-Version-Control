@@ -112,6 +112,7 @@ Put together by [Dave Konopka](http://davekonopka.com). On Twitter: [@davekonopk
     * Fork a repo
     * Go wild in your fork
     * Submit pull requests
+    * Gists
 
 ### Deploy ###
 
