@@ -140,17 +140,37 @@ Put together by [Dave Konopka](http://davekonopka.com). On Twitter: [@davekonopk
 
 ### Hosted services ###
 
-* Github
-* Beanstalk
-* Unfuddle
+* [Github](https://github.com/) 
+    * Hosted Git repos, free public repos
+    * Collaboration & projest management tools
+* [Beanstalk](http://beanstalkapp.com/)
+    * Hosted Subversion, Git repos
+    * Collaboration & project management tools
+    * Philly based company
+* [Unfuddle](http://unfuddle.com/)
+    * Hosted Subversion, Git repos
+    * Free _private_ repos
+    * Collaboration & project management tools
+
+### Guides ###
+
+* [Beanstalk Guides](http://guides.beanstalkapp.com/) "Everything you
+  need to get started with Subversion or Git."
+* [Github Help](http://help.github.com/)
 
 ### Applications ###
 
-* Gitx
-* TortoiseGit
-* Github client
+#### SVN ####
 
-### Reading, Refernce ###
+* [RapidSVN](http://rapidsvn.tigris.org/) Cross platform SVN gui
+* [Versions](http://versionsapp.com/) OS X SVN gui
+* [TortoiseSVN](http://tortoisesvn.net/) Windows SVN tool
+
+#### Git ####
+
+* [GitX (L)](http://gitx.laullon.com/) OS X Git gui
+* [Github for Mac](http://mac.github.com/) OS X Git gui
+* [TortoiseGit](http://code.google.com/p/tortoisegit/) Windows Git tool
 
 ## Credits ##
 
