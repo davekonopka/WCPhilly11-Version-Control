@@ -2,8 +2,11 @@
 
 ## Overview ##
 
-* [Dave Konopka](http://davekonopka.com)
-* [@davekonopka](http://twitter.com/davekonopka)
+This presentation will help you get your WordPress sites, plugins, and themes under control with version control. Learn the finer points of tools like Subversion and Git.  And find out how to share your code with the community for collaboration.
+
+Presented at [WordCamp Philly 2011](http://2011.philly.wordcamp.org/)
+
+Put together by [Dave Konopka](http://davekonopka.com). On Twitter: [@davekonopka](http://twitter.com/davekonopka)
 
 ### Version Control ###
 
