@@ -111,8 +111,8 @@ Put together by [Dave Konopka](http://davekonopka.com). On Twitter: [@davekonopk
 ### Contributing to projects ###
 
 * Patches
-    * SVN patches
-    * Git patches
+    * [SVN patches](http://codex.wordpress.org/Using_Subversion#Saving_patch.2Fdiff_files)
+    * [Git patches](http://book.git-scm.com/5_git_and_email.html)
 * Github
     * Fork a repo
     * Go wild in your fork
@@ -174,6 +174,10 @@ Put together by [Dave Konopka](http://davekonopka.com). On Twitter: [@davekonopk
 * [The Git Community Book](http://book.git-scm.com/)
 * [Pro Git](http://progit.org/book/) free book
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+* [Think Like (a) Git](http://think-like-a-git.net/)
+* [git ready](http://gitready.com/)
+* [Git Is Simpler Than You Think](http://nfarina.com/post/9868516270/git-is-simpler)
+* [WordPress Codex: Using Subversion](http://codex.wordpress.org/Using_Subversion)
 
 ### Applications ###
 
