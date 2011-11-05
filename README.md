@@ -52,10 +52,10 @@ Put together by [Dave Konopka](http://davekonopka.com). On Twitter: [@davekonopk
 ### Git ###
 
 * Popular
-    * 163K Ubuntu package installs as of October 2011
+    * 1 million users on Github
+    * 163K Ubuntu package installs according to popcon
     * Included with OSX dev tools
 * Github
-    * 1 million+ users
     * Linux, Ruby on Rails, jQuery, etc… hosted
 * Distributed
     * Work disconnected
