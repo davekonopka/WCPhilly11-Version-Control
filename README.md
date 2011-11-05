@@ -24,6 +24,8 @@ Put together by [Dave Konopka](http://davekonopka.com). On Twitter: [@davekonopk
 * Manage streams of work
 * Collaborate (even if only with your future self)
 * Synchronize between people and environments
+* Commitment: You have to commit to using version control to get
+  benefits
 
 ### A version control refresher ###
 
