@@ -165,6 +165,8 @@ Put together by [Dave Konopka](http://davekonopka.com). On Twitter: [@davekonopk
     * Hosted Subversion, Git repos
     * Collaboration & project management tools
     * Philly based company
+* [BitBucket](https://bitbucket.org/)
+    * _Unlimited_ free private respositories
 * [Unfuddle](http://unfuddle.com/)
     * Hosted Subversion, Git repos
     * Free _private_ repos
