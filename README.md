@@ -123,9 +123,12 @@ Put together by [Dave Konopka](http://davekonopka.com). On Twitter: [@davekonopk
 
 * Manual pull on server
 * Remote git repo, push updates code
-* Capistrano (Ruby gem)
+* Capistrano, Chef
     * [WordPress Capistrano](https://github.com/jestro/wordpress-capistrano)
     * [Deploying WordPress with Capistrano](http://theme.fm/2011/08/tutorial-deploying-wordpress-with-capistrano-2082/)
+    * [WordPress Chef Cookbook](http://community.opscode.com/cookbooks/wordpress)
+    * [Deploy WordPress to Amazon EC2 Micro Instance with Opscode
+      Chef](http://blog.ibd.com/howto/deploy-wordpress-to-amazon-ec2-micro-instance-with-opscode-chef/)
 * Post commit hooks
     * [Github Post-Receive Hooks](http://help.github.com/post-receive-hooks/)
     * [Beanstalk Web Hooks](http://support.beanstalkapp.com/customer/portal/articles/68110-trigger-a-url-on-commit-with-web-hooks)
