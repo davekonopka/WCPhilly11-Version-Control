@@ -140,6 +140,7 @@ Put together by [Dave Konopka](http://davekonopka.com). On Twitter: [@davekonopk
 * Plugins for managing data/content migration
     * [DeployMint](http://markmaunder.com/2011/08/19/deploymint-a-staging-and-deployment-system-for-wordpress/)
     * [RAMP](http://crowdfavorite.com/wordpress/ramp/)
+    * [BackupBuddy](http://pluginbuddy.com/purchase/backupbuddy/)
 
 ## Workflows: Pleasure principal ##
 
